@@ -1,0 +1,19 @@
+{
+  "name": "dotty",
+  "repo": "binocarlos/dotty",
+  "description": "Component version of deoxxa/dotty",
+  "version": "0.0.1",
+  "keywords": [
+    
+  ],
+  "dependencies": {
+    
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "src/index.js",
+  "styles": [],
+  "scripts": [
+    "src/index.js"    
+  ]
+}
